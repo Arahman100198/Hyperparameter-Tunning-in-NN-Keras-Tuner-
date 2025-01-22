@@ -13,6 +13,7 @@ In this project, we explore the following key aspects of hyperparameter tuning i
 3. **Number of Layers in the Network**  
 4. **Activation Functions**
 5. **All in One**
+6. **Dropout**
 
 We utilize **Keras Tuner** to perform a **Random Search** optimization on each of these parameters, and determine the best configuration based on model performance.
 
